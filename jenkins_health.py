@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Author: Jinghua Zhou
-Usage: python jenkins_health.py
+Usage: python jenkins_health.py &
 Description: listen to jenkins health status
 Version: 1.0
 """
